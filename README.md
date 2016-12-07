@@ -4,4 +4,4 @@
 Authors: Riko Hamblin
         Ibukun Oluwayomi
 
-This is a schedule builder application. The user selects their courses from a list and all possible clash free schedules are generated and displayed.
+This is a schedule builder application which can be used for schools to generate all possible schedules/timetables based on the user selection of courses. The data is being read from a PostGres database and the user interacts wth the system using a GUI. This was our solution to a programming competetion in which we placed first.
